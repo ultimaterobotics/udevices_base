@@ -1,0 +1,1 @@
+build/ubase/udevices_base_main.c.o build/ubase/leds.c.o build/ubase/urf_radio.c.o build/ubase/urf_timer.c.o build/ubase/urf_uart.c.o build/ubase/urf_star_protocol.c.o build/ubase/gcc_startup_nrf52.S.o build/ubase/system_nrf52.c.o  -lc -lnosys -lm
